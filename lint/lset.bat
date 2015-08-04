@@ -1,0 +1,1 @@
+set path=c:\lint;d:\jre\bin;c:\programdata\oracle\java\javapath;c:\program files (x86)\common files\netsarang;c:\windows\system32;c:\windows;c:\windows\system32\wbem;c:\windows\system32\windowspowershell\v1.0\;d:\winscp\;d:\tortoisesvn\bin;;c:\users\albert\appdata\local\code\bin

@@ -1,0 +1,7 @@
+//Only report errors & warnings
+-w2
+
+//-esym(#NUM,#MSG)
+-esym(686,*)
+-esym(123,*)
+-esym(451,*)

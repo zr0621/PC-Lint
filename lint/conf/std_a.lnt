@@ -1,0 +1,9 @@
+//  Gnu C/C++ (version 2.95.3 or later), -si4 -sp4, 
+//  Standard lint options
+
+au-sm123.lnt au-ds.lnt
+co-gcc.lnt
+
+options.lnt  -si4 -sp4
+-iC:\lint\includes
+
